@@ -7,4 +7,4 @@ The program includes a feature to allow you to print the calendar on paper or to
 
 Written in Microsoft Visual C# 2013. The complete source code is included.
 
-Sunday 27 December 2020es a hard copy printout feature.
+Sunday 27 December 2020
